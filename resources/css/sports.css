@@ -1,0 +1,57 @@
+@CHARSET "ISO-8859-1";
+
+.my-dataview-item {
+	padding: 10px 10px 20px 10px;
+	margin: 5px;
+	background-color: #ffffff;
+}
+
+.my-dataview-item img {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	background-repeat: no-repeat;
+	background-size: 104%;
+	background-position: 50%;
+}
+
+.my-dataview-item h2 {
+	font-weight: bold;
+}
+
+.dataview-item {
+	width: 33.33%;
+	height: 50%;
+	border-right: 1px solid #000;
+	border-bottom: 5px solid #59535E;
+	float: left;
+	padding: 2px;
+}
+
+.rd-tiled-view {
+	padding: 0 10px 10px 0;
+	text-align: center;
+}
+/* Target the tiled view item. Make it float using inline-block. */
+.rd-tiled-view-item {
+	background: #fff;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin: 10px 0 0 10px;
+}
+
+
+.productItem {
+  float: left;
+  width: 150px;
+}
+
+.rd-tiled-view-item img {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	/*background-repeat: no-repeat;
+	background-size: 104%;
+	background-position: 50%;*/
+}

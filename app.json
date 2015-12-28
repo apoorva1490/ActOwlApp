@@ -101,6 +101,10 @@
         {
             "path": "resources/css/app.css",
             "update": "delta"
+        },
+        {
+            "path": "resources/css/sports.css",
+            "update": "full"
         }
     ],
 
